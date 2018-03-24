@@ -66,7 +66,7 @@ public class SnobbyWelcome {
 		txtrWelcomeToSpin.setRows(1);
 		txtrWelcomeToSpin.setLineWrap(true);
 		txtrWelcomeToSpin.setBackground(Color.CYAN);
-		txtrWelcomeToSpin.setText("Ready to learn some calculus?! The town of Schwetzia has been plagued by floating peasants! As Snobby Dragon, your task is to kill as many of these peasants as you can. A problem will pop up on the screen, and you will have some time to shoot a fireball at the peasant with the correct answer. To shoot a fireball, simply click your mouse in the direction you want to shoot.");
+		txtrWelcomeToSpin.setText("Ready to learn some calculus?! The town of Schwetzia has been plagued by evil monsters! As Snobby Dragon, your task is to shoot fireballs at as many of the monsters as you can. A problem will pop up on the screen, and you will have some time to shoot a fireball at the monster with the correct answer. To shoot a fireball, simply click where you want to shoot.");
 		frame.getContentPane().add(txtrWelcomeToSpin, BorderLayout.CENTER);
 	}
 
