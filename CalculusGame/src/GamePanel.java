@@ -8,7 +8,7 @@ public class GamePanel extends JPanel implements Runnable, MouseListener {
 
 	public GamePanel() {
 		// TODO Auto-generated constructor stub
-		setVisible(false);
+		setVisible(true);
 		setIgnoreRepaint(true);
 		setDoubleBuffered(true);
 		new Thread(this).start();
